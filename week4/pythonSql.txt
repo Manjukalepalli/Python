@@ -1,0 +1,5 @@
+python -m virtualenv venv
+call venv/Scripts/activate
+pip install flask
+pip install Flask-SQLAlchemy
+pip install mysqlclient
